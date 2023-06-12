@@ -77,14 +77,17 @@ python random-forest-painting.py
 ### Hirst "Dot" Painting
 
 ![Hirst "Dot" Painting](dot-painting.png)
+![](https://github.com/eduardbelan/Random-Forest-Painting/blob/main/dot-painting-gif.gif)
 
 ### Random Forest Painting - Diagonal Lines
 
 ![Random Forest Painting - Diagonal Lines](random-forest-diagonal.png)
+![](https://github.com/eduardbelan/Random-Forest-Painting/blob/main/diagonal-painting-gif.gif)
 
 ### Random Forest Painting - Squares
 
 ![Random Forest Painting - Squares](random-forest-squares.png)
+![](https://github.com/eduardbelan/Random-Forest-Painting/blob/main/square-painting-gif.gif)
 
 ---
 # Color Extractor
